@@ -31,4 +31,4 @@ Here are some of my highlighted repositories:
 
 ##  Let’s Connect
 - **LinkedIn:** www.linkedin.com/in/ali-asad-0202b0368  
-- **Email:** your.email@example.com
+- **Email:** aliasad0443@gmail.com
