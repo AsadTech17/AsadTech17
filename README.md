@@ -30,5 +30,5 @@ Here are some of my highlighted repositories:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsadTech17&layout=compact&theme=tokyonight)
 
 ##  Let’s Connect
-- **LinkedIn:** [Your LinkedIn URL]  
+- **LinkedIn:** www.linkedin.com/in/ali-asad-0202b0368  
 - **Email:** your.email@example.com
